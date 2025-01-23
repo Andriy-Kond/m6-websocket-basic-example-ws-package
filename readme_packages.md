@@ -6,7 +6,6 @@
 - `cors` - Enables support for CORS (Cross-Origin Resource Sharing), allowing the server to accept requests from different domains or ports.
 - `logger` - Middleware for logging HTTP requests in Node.js.
 - `ws` - A Node.js WebSocket library
-- [`socket.io`](https://socket.io/) - A Node.js WebSocket library ([`npm i socket.io`](https://www.npmjs.com/package/socket.io))
 
 ## Database
 
