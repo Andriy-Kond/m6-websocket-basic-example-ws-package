@@ -1,5 +1,5 @@
 # Task
 
-## Example of basic websocket work using basic Node.js `ws` package
+## Example of websocket work using socket.io
 
-### Exchange messages from several frontend connections and one backend
+<!-- ### Exchange messages from several frontend connections and one backend -->
