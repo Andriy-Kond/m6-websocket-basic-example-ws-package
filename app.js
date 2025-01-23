@@ -35,7 +35,7 @@ wss.on(
     });
 
     // Method send() can send or string or file
-    currentSocket.send("something");
+    currentSocket.send("some message");
 
     // send message to other frontend connections
     socketList.forEach(socket => {
